@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>admin@salesforce.com</contactEmail>
+    <label>CPQ Integration User Connected App</label>
+    <oauthConfig>
+        <callbackUrl>https://login.salesforce.com/services/oauth2/success</callbackUrl>
+        <certificate>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</certificate>
+        <consumerKey>YjkyMzJmNDUzMGNmOTYzODVlNDQ0ZjE2OTUxOTU1NDI5MGViN2I3NWU3YTFjNmY300Df2000001GOK7</consumerKey>
+        <isAdminApproved>true</isAdminApproved>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <scopes>Api</scopes>
+        <scopes>Full</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+    <profileName>CPQ Integration User</profileName>
+</ConnectedApp>
